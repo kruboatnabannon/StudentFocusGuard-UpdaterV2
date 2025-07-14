@@ -1,6 +1,49 @@
+# Student Focus Guard - Domain Blocklist
+# หนึ่งโดเมนต่อหนึ่งบรรทัด
+# บรรทัดที่ขึ้นต้นด้วย # จะถูกข้ามไป
+
+# --- เว็บเกมออนไลน์ ---
 roblox.com
-steampowered.com
+www.roblox.com
+m.roblox.com
+create.roblox.com
 y8.com
+www.y8.com
+th.y8.com
 poki.com
-tiktok.com
-youtube.com
+www.poki.com
+crazygames.com
+miniclip.com
+agame.com
+
+# --- แพลตฟอร์มเกม ---
+steampowered.com
+store.steampowered.com
+steamcommunity.com
+epicgames.com
+store.epicgames.com
+garena.com
+www.garena.co.th
+garena.live
+playvalorant.com
+leagueoflegends.com
+www.minecraft.net
+itch.io
+gog.com
+
+# --- เว็บไซต์โซเชียลมีเดียและอื่นๆ ---
+#facebook.com
+#www.facebook.com
+#messenger.com
+#tiktok.com
+#www.tiktok.com
+#instagram.com
+#www.instagram.com
+#instragam.com
+twitter.com
+x.com
+#youtube.com
+#www.youtube.com
+twitch.tv
+www.twitch.tv
+discord.com

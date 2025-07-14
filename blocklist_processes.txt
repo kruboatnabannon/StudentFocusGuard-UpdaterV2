@@ -1,5 +1,143 @@
+# Student Focus Guard - Process Blocklist
+# หนึ่งชื่อโปรเซสต่อหนึ่งบรรทัด
+# บรรทัดที่ขึ้นต้นด้วย # จะถูกข้ามไป
+
+# --- Roblox ---
 RobloxPlayerBeta.exe
+RobloxStudioBeta.exe
+
+# --- แพลตฟอร์มเกมยอดนิยม (Popular Game Platforms) ---
 steam.exe
+steamwebhelper.exe
+EpicGamesLauncher.exe
+Garena.exe
+GarenaMessenger.exe
+garena_lol.exe
+RiotClientServices.exe
+EADesktop.exe
+EALauncher.exe
+EABackgroundService.exe
+UbisoftConnect.exe
+upc.exe
+Uplay.exe
+Battle.net.exe
+Agent.exe
+GOG Galaxy.exe
+GalaxyClient.exe
+RockstarService.exe
+itch.exe
+
+# --- เกมแนว FPS / Battle Royale ---
 VALORANT.exe
-HD-Player.exe
+VALORANT-Win64-Shipping.exe
+r5apex.exe
+FortniteClient-Win64-Shipping.exe
+cs2.exe
+RainbowSix.exe
+FreeFire.exe
+FreeFireMAX.exe
+TslGame.exe
+Overwatch.exe
+cod.exe
+
+# --- เกมแนว MOBA ---
+League of Legends.exe
+LeagueClient.exe
+dota2.exe
+HoN.exe
+
+# --- เกมแนว MMORPG / Action RPG / อื่นๆ ---
+GenshinImpact.exe
+YuanShen.exe
+StarRail.exe
+BlackDesert64.exe
+Palworld-Win64-Shipping.exe
+BH3.exe
+javaw.exe
+BedrockLauncher.exe
+FC24.exe
+Gta5.exe
+Wow.exe
+Diablo IV.exe
+FiveM.exe
+FiveM_GTAProcess.exe
+
+# --- โปรแกรมสื่อสารสำหรับเล่นเกม ---
 Discord.exe
+ts3client_win64.exe
+ts3client_win32.exe
+mumble.exe
+Skype.exe
+
+# --- Android Emulators ---
+HD-Player.exe
+HD-Agent.exe
+Bluestacks.exe
+BlueStacksServices.exe
+BlueStacksX.exe
+Nox.exe
+NoxVMSVC.exe
+dnplayer.exe
+Ld9Box.exe
+Ld9BoxHeadless.exe
+MEmu.exe
+MEmuConsole.exe
+NemuPlayer.exe
+aow_exe.exe
+AppMarket.exe
+
+# --- Google Play Games Beta ---
+crosvm.exe
+Games.exe
+Service.exe
+
+# --- Console Emulators ---
+Dolphin.exe
+Cemu.exe
+yuzu.exe
+Ryujinx.exe
+pcsx2.exe
+pcsx2-qt.exe
+rpcs3.exe
+ePSXe.exe
+duckstation-qt-x64-ReleaseLTCG.exe
+xemu.exe
+xenia.exe
+retroarch.exe
+mame.exe
+mame64.exe
+Project64.exe
+snes9x.exe
+snes9x-x64.exe
+mGBA.exe
+VisualBoyAdvance.exe
+DeSmuME.exe
+
+# --- Virtual Machines (VM) ---
+VirtualBox.exe
+VirtualBoxVM.exe
+VirtualBoxSvc.exe
+vmware.exe
+vmware-vmx.exe
+qemu-system-x86_64.exe
+vmwp.exe
+
+# --- Overlays & Hardware Utilities ---
+MSIAfterburner.exe
+RivaTunerStatisticsServer.exe
+NZXTCAM.exe
+iCUE.exe
+GG.exe
+SteelSeriesEngine.exe
+RazerCentral.exe
+RzSynapse.exe
+
+# --- โปรแกรมอื่นๆ ที่อาจไม่เกี่ยวข้องกับการเรียน ---
+opera.exe
+opera_assistant.exe
+Spotify.exe
+SpotifyWebHelper.exe
+Streamlabs Desktop.exe
+qbittorrent.exe
+uTorrent.exe
+CCXProcess.exe

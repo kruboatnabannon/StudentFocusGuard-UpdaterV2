@@ -1,0 +1,5 @@
+RobloxPlayerBeta.exe
+steam.exe
+VALORANT.exe
+HD-Player.exe
+Discord.exe

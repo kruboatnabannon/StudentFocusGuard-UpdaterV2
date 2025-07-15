@@ -28,6 +28,7 @@ RockstarService.exe
 itch.exe
 SOSPCLauncher.exe
 PC-Launcher.exe
+sspc.exe
 
 # --- เกมแนว FPS / Battle Royale ---
 VALORANT.exe

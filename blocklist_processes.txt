@@ -26,9 +26,7 @@ GOG Galaxy.exe
 GalaxyClient.exe
 RockstarService.exe
 itch.exe
-SOSPCLauncher.exe
-PC-Launcher.exe
-sspc.exe
+
 
 # --- เกมแนว FPS / Battle Royale ---
 VALORANT.exe
@@ -88,6 +86,9 @@ MEmuConsole.exe
 NemuPlayer.exe
 aow_exe.exe
 AppMarket.exe
+SOSPCLauncher.exe
+PC-Launcher.exe
+sspc.exe
 
 # --- Google Play Games Beta ---
 crosvm.exe

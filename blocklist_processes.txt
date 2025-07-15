@@ -27,7 +27,7 @@ GalaxyClient.exe
 RockstarService.exe
 itch.exe
 SOSPCLauncher.exe
-
+PC-Launcher.exe
 
 # --- เกมแนว FPS / Battle Royale ---
 VALORANT.exe

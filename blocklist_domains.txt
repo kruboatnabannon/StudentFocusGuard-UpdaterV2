@@ -20,6 +20,8 @@ th.crazygames.com
 reefix.online
 www.y8.in.th
 www.friv.com
+global.stateofsurvival.game
+https://global.stateofsurvival.game/
 
 # --- แพลตฟอร์มเกม ---
 steampowered.com

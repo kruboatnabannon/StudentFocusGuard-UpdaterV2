@@ -23,6 +23,7 @@ www.friv.com
 global.stateofsurvival.game
 https://global.stateofsurvival.game/
 https://stateofsurvival.game/
+https://krunker.io/
 
 # --- แพลตฟอร์มเกม ---
 steampowered.com

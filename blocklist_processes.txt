@@ -26,6 +26,8 @@ GOG Galaxy.exe
 GalaxyClient.exe
 RockstarService.exe
 itch.exe
+HYP.exe
+HYPHelper.exe
 
 
 # --- เกมแนว FPS / Battle Royale ---
